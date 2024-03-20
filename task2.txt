@@ -1,0 +1,14 @@
+blog about objects and its internal representation in Javascript
+
+Objects in Java Script are not similar to any other objects in any other languages. 
+Other languages like C,C++,Java have their own object necessity
+
+What is a JavaScript object?
+
+A JavaScript object is a collection of unordered properties. 
+Properties can usually be changed, added, and deleted, but some are read only.
+
+Objects in JavaScript are very much similar to the objects in real-life. 
+We can see a lot of Objects around us in this real world, each with its own set of properties. 
+For instance let us take a table in the real world, it has its own properties like height, width, and length etc. 
+Similarly all the Objects in the JavaScript are associated with its own set of properties.
